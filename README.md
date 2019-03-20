@@ -1,2 +1,6 @@
 # Jenssemand.github.io
-My wall
+Check it out 
+
+[My wall](Jenssemand.github.io)
+
+please be nice
